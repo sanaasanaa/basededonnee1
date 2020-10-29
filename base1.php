@@ -1,5 +1,5 @@
 <?php 
-               //chemin du fichier db browser 
+               //chemin du fichier db browser --
 $pdo = new PDO('sqlite:client2.db');
 
                //selctionner totes les donnees table client
